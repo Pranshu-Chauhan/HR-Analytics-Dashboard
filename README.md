@@ -33,7 +33,6 @@ This repository contains the Tableau project files for an HR analytics dashboard
 **Instructions:**
 
 * Download `Tableau Public` ([https://www.tableau.com/products/desktop/download](https://www.tableau.com/products/desktop/download)) for free to open the `.tps` file.
-* Unzip `Tableau-HR-Project-Materials.zip` for additional resources (data, icons, mockups).
 
 **Disclaimer:**
 
